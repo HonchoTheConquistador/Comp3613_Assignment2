@@ -1,4 +1,9 @@
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/uwidcit/flaskmvc)
+<a href="https://render.com/deploy?repo=https://github.com/uwidcit/flaskmvc">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
 # Flask Commands
 
 # The `wsgi.py` file is a utility script for performing various tasks related to the project. You can use it to import and test any code in the project. To create a manager command function, follow the example below:
